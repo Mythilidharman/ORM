@@ -47,7 +47,7 @@ admin.site.register(Employee,EmployeeAdmin)
 
 ## OUTPUT
 
-![OUTPUT](./EX02.orm.png)
+![OUTPUT](./orm.png)
 
 ## RESULT
 
